@@ -512,7 +512,7 @@ p {
     transition: 0.8s;
     margin: 0 auto;
     border:1px solid black;
-    height:77vh;
+    height:82vh;
     border-radius: 7px !important;
 }
 .card-header,
@@ -579,7 +579,7 @@ p {
 
 .ccdd .content .img-1 {
     width: 100px;
-    height: 130px;
+    height: 100px;
     margin: 0 auto;
     border-radius: 50%;
     overflow: hidden;
