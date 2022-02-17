@@ -55,6 +55,7 @@ background-attachment: fixed;
     -o-background-size: cover;
     background-size: cover;
     position: relative;
+	    top:-12vh;
  
 }
 .fullwidth
@@ -304,7 +305,7 @@ margin-left:2%;
 font-size:30px;
 }
 
-@media(max-width:1200px)
+@(max-width:1200px)
 {
     .display-4
     {
@@ -316,6 +317,12 @@ font-size:30px;
 	{
 	display:none; 
 	}
+	    .services 
+    {
+        position:relative;
+        top:10%;
+    }
+
     #par2
 {
     font-size:15px;
