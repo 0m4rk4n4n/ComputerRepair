@@ -159,10 +159,10 @@ nav .logo {
 {
     background-attachment:scroll !important;
     background-size: cover;
-}
-	div.mobileclass
+	}
+div.mobileclass img
 	{
-	height:50vh !important;
+	display:hidden;
 	}
 .loading
 {
