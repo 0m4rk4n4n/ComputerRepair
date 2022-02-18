@@ -622,13 +622,13 @@ footer
 }
 
 
-
-	@media only screen 
-    and (device-width: 400px) 
-    and (device-height: 1000px) 
-    and (-webkit-device-pixel-ratio: 3) { 
-.hideonmobile
+@media (max-width: 479px) {
+	.hideonmobile
 	{
 	display:hidden;
 	}
+
 }
+
+
+
