@@ -78,7 +78,7 @@ background-attachment: fixed;
 .services 
 {
     position: relative;
-   top:80% !important;
+   top:10% !important;
     text-align: center;
 }
 
@@ -199,7 +199,7 @@ font-size: 100px !important;
     }
 .services 
 {
-    margin-top:-.5%;
+    margin-top:15%;
 }
 
 .expanddiv
