@@ -78,7 +78,7 @@ background-attachment: fixed;
 .services 
 {
     position: relative;
-   top:25% !important;
+   bottom:25% !important;
     text-align: center;
 }
 
