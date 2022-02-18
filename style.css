@@ -160,6 +160,10 @@ nav .logo {
     background-attachment:scroll !important;
     background-size: cover;
 }
+	div.mobileclass
+	{
+	height:50vh !important;
+	}
 .loading
 {
 
