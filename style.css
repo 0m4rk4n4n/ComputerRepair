@@ -318,6 +318,11 @@ font-size:30px;
         font-family: "Roboto" !important;
         font-weight: bold;
     }
+	.customize 
+{
+width:250px !important;
+	height:110px !important;
+}
 	.hideme 
 	{
 	display:none; 
