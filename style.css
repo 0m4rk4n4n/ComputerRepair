@@ -27,6 +27,11 @@ footer
     font-size:25px;
 
 }
+.customize 
+{
+width:380px !important;
+	height:200px !important;
+}
 .xxxx
 {
 background-color: #fff;
@@ -160,6 +165,11 @@ nav .logo {
     background-attachment:scroll !important;
     background-size: cover;
 }
+	.customize
+	{
+	width:250px !important;
+		height:100px !important;
+	}
 .loading
 {
 
