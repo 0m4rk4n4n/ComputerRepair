@@ -160,7 +160,7 @@ nav .logo {
     background-attachment:scroll !important;
     background-size: cover;
 	}
-div.mobileclass img
+.hideonmobile
 	{
 	display:hidden;
 	}
