@@ -621,14 +621,14 @@ footer
     height:20vh;
 }
 
-
-@media (min-width: 900px) {
+@media only screen 
+    and (device-width: 428px) 
+    and (device-height: 926px) 
+    and (-webkit-device-pixel-ratio: 3) {
 	.hideonmobile
 	{
 	display:hidden;
 	}
-
 }
-
 
 
